@@ -1,16 +1,12 @@
-### Hi there 👋
+ 
+## Hello my name is David Enrique Morales Cajina 👋
+    
+-🔭 I am currently working as a web developer. 
+-🤓 I specialize in technologies such as HTML, CSS, JS, React, PHP, among others..  
+-🤝🏻 I enjoy working, collaborating with other developers and improving my skills. 
+-💪🏽 I like to take challenges and improve every day  
+-😋 I love soda and sweet desserts. 
+-🎬🍿I love watching movies, superhero series and anime.
+   
 
-<!--
-**David-morales01/David-morales01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Thank you for viewing my profile 
