@@ -12,6 +12,11 @@
 -😋 I love soda and sweet desserts. 
 
 -🎬🍿I love watching movies, superhero series and anime.
-   
+
+-🌍I'm based in Nicaragua
+
+-🖥️ You can view my portfolio on my <a href="https://david-morales.netlify.app/">website</a>.
+
+-✉️ You can contact me at davidenriquemorales4@gmail.com
 
 ### Thank you for viewing my profile 
