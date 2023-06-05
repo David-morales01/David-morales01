@@ -15,7 +15,7 @@
 
 -🌍 I'm based in Nicaragua
 
--🖥️ You can view my portfolio on my <a href="https://david-morales.netlify.app/">website</a>.
+-🖥️ You can view my portfolio on my <a href="https://david-morales.netlify.app/" target="_blank">website</a>.
 
 -✉️ You can contact me at davidenriquemorales4@gmail.com
 
