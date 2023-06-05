@@ -13,7 +13,7 @@
 
 -🎬🍿I love watching movies, superhero series and anime.
 
--🌍I'm based in Nicaragua
+-🌍 I'm based in Nicaragua
 
 -🖥️ You can view my portfolio on my <a href="https://david-morales.netlify.app/">website</a>.
 
